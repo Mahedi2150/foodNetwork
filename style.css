@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+h2 {
+  font-size: 40px;
+}
+p,
+h1 {
+  color: #555;
+}
+
+.button {
+  padding: 15px 35px;
+  border-radius: 50px;
+  display: inline-block;
+  margin-top: 20px;
+  background-image: linear-gradient(to left, #fb9b4f, #fe4b2f);
+  text-decoration: none;
+  color: aliceblue;
+  font-weight: 700;
+}
+
+/* ####################  Header Section #################### */
+.header-section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  margin-left: 2%;
+}
+
+.header-title {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 20%;
+}
+.header-title h1 {
+  font-family: "Anton", sans-serif;
+  letter-spacing: 2px;
+  font-weight: 100;
+}
+
+.header-title p {
+  margin-top: 0px;
+}
+.title-word {
+  font-size: 70px;
+  color: #fc753e;
+}
+
+.half-width img {
+  width: 90%;
+}
