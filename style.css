@@ -64,7 +64,7 @@ h1,h2 {
 
 /*################### About section ##########*/
 .about-section{
-  background-image: url(/image/shape/7.png);
+  background-image: url(image/shape/7.png);
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
