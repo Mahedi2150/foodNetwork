@@ -68,7 +68,7 @@ h1,h2 {
 /*################### About section ##########*/
 .about-section{
   background-image: url(image/shape/7.png);
-  height: 500px;
+  height: 550px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -76,7 +76,7 @@ h1,h2 {
   display: inline-block;
   width: 300px; 
   height: 90%;
-  margin-top: 50px;
+  margin-top: 55px;
   margin-left: 30%;
 }
 .about-text{
@@ -85,7 +85,7 @@ h1,h2 {
   
 }
 .about-text p{
-  margin-bottom: 15%;
+  margin-bottom: 10%;
 }
 
 
@@ -123,7 +123,7 @@ h1,h2 {
 /* ###################### social ##################  */
 
 .social-media{
-  justify-content: space-around;
+  justify-content: space-evenly;
   margin:5% 7%;
   border-radius: 25px;
   height: 200px;
