@@ -35,6 +35,28 @@ h1,h2 {
   width: 50%;
   margin-left: 2%;
 }
+/* ######################## menu-item #########################  */
+.menubar{
+  background:#FE4C2F ;
+}
+.menubar ul{
+  justify-content: flex-end;
+margin: 0;
+padding: 0;
+display: flex;
+
+
+}
+.menubar ul li{
+  list-style: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+  padding: 2%;
+}
+
+
+
 /* ####################  Header Section #################### */
 .header-section{
   margin-bottom: 50px;
