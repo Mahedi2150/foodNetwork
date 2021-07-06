@@ -10,6 +10,9 @@ h1 {
 h2 {
   font-size: 40px;
 }
+h3{
+  font-size: 25px;
+}
 p,
 h1,h2 {
   color: #555;
@@ -52,7 +55,7 @@ h1,h2 {
 .header-text p {
   margin-top: 0px;
 }
-.title-word {
+#title-word {
   font-size: 70px;
   color: #fc753e;
 }
@@ -121,10 +124,12 @@ h1,h2 {
 
 .social-media{
   justify-content: space-around;
-  margin:0% 7%;
+  margin:5% 7%;
   border-radius: 25px;
   height: 200px;
-  box-shadow: 0px 20px 30px -10px gray;
+ 
+  margin-top: 5%;
+  box-shadow: 0px 10px 30px -10px gray;
   
 }
 .sicial-text h2 {
@@ -133,4 +138,23 @@ h1,h2 {
   color: black;
   display: inline-block;
   
+}
+/* ################## footer section ################### */
+footer {
+  background-color: rgb(3, 0, 22);
+  text-align: center;
+  font-weight: 400;
+  margin-top: 10%;
+  padding-top: 1%;
+  padding-bottom: 5%;
+ word-spacing: 5px;
+}
+#foodid{
+  color: #f79648;
+}
+#netid{
+  color: rgb(145, 144, 144);
+}
+footer p{
+  color: whitesmoke;
 }
